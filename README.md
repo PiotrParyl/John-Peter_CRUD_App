@@ -1,4 +1,4 @@
-# Siema, nasz pierwsza współna prosta apka :) 
+# Siema, siema o tej porze każdy wypić może. 
 
 
 ## Siema Janek.
@@ -12,9 +12,24 @@ Twoje zabawki znajdują się wiadomo, w fronendzie. Nie ma co sie spinać żeby 
 Tworzymy prostą apke CRUD (create, read, update, delete). Myślę że zrobimy TaskMenager/ToDo zwał jak zwał. Mniej wiecej powinna wyglądac jakoś tak:
 < DODAĆ FOTKE >
 
+Kiedy zrobisz już oprawe wizualną ja wyklebie backend. Korzystając z MongoDB gdzie bd przetrzymywane informacje z fronta za pomocą ReastAPi będzie można wyświetlić na stronie listę ToDO. 
+
 ## Setup 
 
 Aby odpalić React.js server to pewnie wiesz ale dla zasady napisze. 
 
+
 git clone <-github URL->
+
+```
+cd .\frontend
+npm start
+
+```
+następnie w przeglądarce wchodzimy na 127.0.0.1:3000
+i naszym oczom powinna pojawić sie oootaka strona:
+
+< DODAĆ FOTKE >
+
+
 
