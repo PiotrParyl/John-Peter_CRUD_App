@@ -10,7 +10,8 @@ Twoje zabawki znajdują się wiadomo, w fronendzie. Nie ma co sie spinać żeby 
 ### Troche o apce 
 
 Tworzymy prostą apke CRUD (create, read, update, delete). Myślę że zrobimy TaskMenager/ToDo zwał jak zwał. Mniej wiecej powinna wyglądac jakoś tak:
-< DODAĆ FOTKE >
+![image](https://user-images.githubusercontent.com/44020188/187493715-cf20b595-cdfb-4d04-a944-829763bb7509.png)
+
 
 Kiedy zrobisz już oprawe wizualną ja wyklebie backend. Korzystając z MongoDB gdzie bd przetrzymywane informacje z fronta za pomocą ReastAPi będzie można wyświetlić na stronie listę ToDO. 
 
@@ -29,7 +30,8 @@ npm start
 następnie w przeglądarce wchodzimy na 127.0.0.1:3000
 i naszym oczom powinna pojawić sie oootaka strona:
 
-< DODAĆ FOTKE >
+![image](https://user-images.githubusercontent.com/44020188/187493488-b316ef5d-82ea-48fb-adf2-2f2ca37d553f.png)
+
 
 
 
